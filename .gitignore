@@ -1,2 +1,40 @@
 basicidea.txt
 formulas.txt
+.venv/
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Virtual Environment
+.venv/
+venv/
+env/
+
+# Jupyter Notebook Checkpoints
+.ipynb_checkpoints/
+
+# Dataset files
+*.csv
+*.xlsx
+*.json
+data/
+fine_tuned_model/
+
+# Model Checkpoints
+results/
+checkpoints/
+
+# Log Files
+*.log
+
+# IDE Configurations
+.idea/
+.vscode/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Environment Variables
+.env
