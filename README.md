@@ -1,6 +1,6 @@
 TODO :
 
-- [ ] pass mid sems
+- [x] pass mid sems
 - [ ] learn about all these AI stuff
 - [ ] llm something
 - [ ] build this thing
