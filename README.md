@@ -8,3 +8,4 @@ TODO :
 
 update 27/10/2024
 -following a youtube tutorial
+- following chatgpt
