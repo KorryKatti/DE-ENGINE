@@ -1,4 +1,7 @@
-transformers 
-datasets 
-torch
-transformers[torch]
+torch>=2.0.0
+transformers>=4.36.0
+datasets>=2.14.0
+pandas>=2.0.0
+numpy>=1.24.0
+tqdm>=4.65.0
+accelerate>=0.24.0
